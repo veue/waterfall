@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C97D81D3-F0B7-4F2C-8242-EA4A2F552FF6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UICollectionView实现瀑布流</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EBCC3E3F2B04546F6E62BACD106720C0295A1AFD</key>
+		<string>github.com:veue/waterfall.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UICollectionView实现瀑布流.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EBCC3E3F2B04546F6E62BACD106720C0295A1AFD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:veue/waterfall.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EBCC3E3F2B04546F6E62BACD106720C0295A1AFD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EBCC3E3F2B04546F6E62BACD106720C0295A1AFD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UICollectionView%E5%AE%9E%E7%8E%B0%E7%80%91%E5%B8%83%E6%B5%81</string>
+		</dict>
+	</array>
+</dict>
+</plist>
